@@ -27,4 +27,4 @@ This project is a two-player reaction time game built using Arduino, where playe
 - `presentation/` → Project presentation
 
 ## Demo Video
-[Watch Demo]([your-video-link](https://drive.google.com/file/d/1DUjSp2QScFQPWLZ2ju4Q9QbcaWhXC9nP/view?usp=drive_link))
+▶️ [Watch the Arduino Reaction Game in action](https://drive.google.com/file/d/1DUjSp2QScFQPWLZ2ju4Q9QbcaWhXC9nP/view?usp=sharing)
